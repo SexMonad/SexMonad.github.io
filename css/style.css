@@ -1,0 +1,38 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: #fdfd9a;
+}
+body #svg-wrapper {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  opacity: 0.9;
+}
+.PiYG .q0-9 {
+  fill: #9afde3;
+}
+.PiYG .q1-9 {
+  fill: #fd9ab4;
+}
+.PiYG .q2-9 {
+  fill: #fdb19a;
+}
+.PiYG .q3-9 {
+  fill: #9ae6fd;
+}
+.PiYG .q4-9 {
+  fill: #fd9aa1;
+}
+.PiYG .q5-9 {
+  fill: #9afdf6;
+}
+.PiYG .q6-9 {
+  fill: #fdfd9a;
+}
+.PiYG .q7-9 {
+  fill: #9a9afd;
+}
+.PiYG .q8-9 {
+  fill: #9afdfb;
+}
