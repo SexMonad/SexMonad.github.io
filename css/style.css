@@ -3,6 +3,11 @@ body {
   padding: 0;
   background: #fdfd9a;
 }
+#logo {
+    display: table;
+    margin-left: auto;
+    margin-right: auto;
+}
 body #svg-wrapper {
   width: 100%;
   height: 100%;
